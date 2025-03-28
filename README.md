@@ -2,7 +2,7 @@
 
 A software developer and well-known bookworm. I love new technologies, and I am constantly looking for something interesting to play around with. If you've got something, let me know!
 
-[![Total of followers on GitHub](https://img.shields.io/github/followers/MrOlivo?style=for-the-badge&labelColor=1e1e2e&color=b7bdf8)](https://github.com/MrOlivo?tab=followers)
+[![Total of followers on GitHub](https://img.shields.io/github/followers/jueet?style=for-the-badge&labelColor=1e1e2e&color=b7bdf8)](https://github.com/jueet?tab=followers)
 
 <!-- [![Deploy to GitHub Pages](IMG)](LINK) -->
 
@@ -80,9 +80,9 @@ Other Productivity Tools:
 
 <table>
   <tr>
-    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrolivo&theme=default"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrolivo&show_icons=true&locale=en&layout=compact"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrolivo"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jueet&theme=default"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jueet&show_icons=true&locale=en&layout=compact"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=jueet"></td>
   </tr>
 </table>
 
