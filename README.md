@@ -12,13 +12,11 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 ### General
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,bootstrap,git,github)](https://skillicons.dev)
 
 - Web development
   - React/JSX
-  - TypeScript
-  - [Astro](https://astro.build/)
-  - [Pug](https://pugjs.org/api/getting-started.html)
+  - PHP ([SuiteCRM](https://suitecrm.com))
   - [Laravel](https://laravel.com/)
   - [Bootstrap](https://getbootstrap.com/)
 - Desktop
@@ -31,10 +29,8 @@ A software developer and well-known bookworm. I love new technologies, and I am 
 
 [![My Skills](https://skillicons.dev/icons?i=js,php)](https://skillicons.dev)
 
-- Javascript/JSX/TypeScript
-- C# (C Sharp)
 - PHP
-- Java
+- Javascript/JSX/TypeScript
 
 ## 👾 Software
 > What's on my computer?
@@ -63,9 +59,10 @@ Other Productivity Tools:
     - [MacBook Air 13" (M1, 2020)](https://support.apple.com/en-us/111883)
  - Desktop:
     - AMD Ryzen 3 2200G (4 Cores / 4 Threads)
-    - Kingston FURY Beast DDR4 3200MHz 8GB 1x8GB
+    - Adata XPG Gammix D10 DDR4 3000MHz 16GB 2x8GB
     - Gigabyte AB350m-DS3H
     - [AsRock RX570 4GB](https://pg.asrock.com/Graphics-Card/AMD/Phantom%20Gaming%20D%20Radeon%20RX570%204G/)
+    - Kingston A400 120GB
     - Crucial MX500 500GB
     - Western Digital Blue SATA 1TB
     - EVGA 550 N1 550W
