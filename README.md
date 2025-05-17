@@ -69,8 +69,9 @@ Other Productivity Tools:
 - Keyboard: [SKYLOONG SK61](https://epomaker.com/products/epomaker-sk61)
 - Mouse: Generic Mouse
 - Earbuds:
-  - [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html)
-  - [TRN BT20](https://trn-audio.com/trn-bt20.html)
+  - [KZ EDX Pro](https://kz-audio.com/kz-edx-pro.html) - IEM
+  - [TANGZU WAN'ER SG 2](https://tangzu.net/products/pre-ordertangzu-waner-sg-2) - IEM
+  - [TRN BT20](https://trn-audio.com/trn-bt20.html) - Wireless bluetooth adapter
 
 ## 📈 Stats
 > How much do I do what I do?
